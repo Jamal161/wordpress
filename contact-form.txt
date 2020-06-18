@@ -1,0 +1,7 @@
+<p><span class="fa fa-user"></span> [text* your-name placeholder "Name"] </p>
+ 
+<p><span class="fa fa-envelope"></span>[email* your-email placeholder "Email"] </p>
+ 
+<p><span class="fa fa-pencil"></span>[textarea your-message placeholder "Message"] </p>
+ 
+<p style="text-align:right;"></span>[submit "Send"]</p>

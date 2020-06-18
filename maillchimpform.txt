@@ -1,0 +1,8 @@
+<div class="mail-style1">
+<div class="input-group">
+    <input id="mc4wp_email" class="form-control input-newletter" name="EMAIL" required="required" type="email" placeholder="Enter your email address" /> 
+    <span class="input-group-btn"> 
+      <input class="btn btn-default" type="submit" value="SUBSCRIBE" />
+    </span>
+  </div>
+</div>
